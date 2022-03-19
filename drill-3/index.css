@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    overscroll-behavior: contain;
+}
+
+.header {
+    background-color: grey;
+    width: 100%;
+    height: 100px;
+
+}
+.cornerbox {
+    background-color: blue;
+    height: 75px;
+    width: 75px;
+    top: 10px;
+    left: 10px;
+    position: absolute;
+}
+p {
+    margin: 50px;
+    text-align: center;
+}
+.p2 {
+    margin: 50px;
+    text-align: center;
+}
+.blue {
+    background-color: blue;
+    width: 100%;
+    height: 200px;
+}
+.teal {
+    background-color: teal;
+    width: 100%;
+    height: 200px;
+}
+.lime{
+     background-color: lime;
+     width: 100%;
+     height: 200px;
+    }
+.yellow {
+    background-color: yellow;
+    width: 100%;
+    height: 200px;
+}
+.qmark {
+    background-color: black;
+    height: 65px;
+    width: 65px;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+    box-sizing: border-box;
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
